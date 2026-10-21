@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;
+    color: #333333;
+    line-height: 1.6;
+}
+
+/* Style the website header */
+header {
+    background-color: #713b20;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Arrange navigation links */
+nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* Style navigation links */
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Change link appearance when the mouse moves over it */
+nav a:hover {
+    color: #ffd28a;
+    text-decoration: underline;
+}
+
+/* Style the homepage welcome section */
+.hero {
+    background-color: #f5dfc5;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+/* Style the main content sections */
+.content {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+/* Style the menu layout */
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+}
+
+/* Style each food item */
+.food-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #e5d4c5;
+}
+
+/* Highlight food prices */
+.price {
+    color: #713b20;
+    font-weight: bold;
+}
+
+/* Style the buttons */
+.button {
+    display: inline-block;
+    background-color: #713b20;
+    color: white;
+    padding: 10px 18px;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+/* Change button colour on hover */
+.button:hover {
+    background-color: #9a5732;
+}
+
+/* Style the footer */
+footer {
+    background-color: #713b20;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+
+
