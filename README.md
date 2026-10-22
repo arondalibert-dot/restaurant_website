@@ -1,5 +1,5 @@
 # Delicious Bites Restaurant Website
-
+built as part of the junior web developer training of delicious bites restaurant website
 A simple, responsive restaurant website built with HTML and CSS. Visitors can learn about the restaurant, browse a sample menu, and find contact details and opening hours.
 
 ## Pages
@@ -14,6 +14,7 @@ A simple, responsive restaurant website built with HTML and CSS. Visitors can le
 - Responsive menu grid that adapts to different screen widths.
 - Consistent styling and hover states for navigation links and buttons.
 - Restaurant contact information and opening hours.
+- A simple interactive restaurant website
 
 ## Technologies
 
